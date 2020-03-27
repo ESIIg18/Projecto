@@ -4,12 +4,12 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class HelloWorldTest extends HelloWorld{
+public class HelloWorldTest {
 
 	@Test
 	public void testHelloWorld() {
 		HelloWorld h = new HelloWorld();
-		int x = 1;
+		int x = h.one();
 		assertEquals(1, x);
 	}
 
