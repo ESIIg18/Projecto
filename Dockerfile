@@ -1,5 +1,5 @@
 # Source Image name
-from ubuntu:16.04
+from openjdk:7
 
 # Mainter Name
 maintainer Amar Singh
