@@ -1,6 +1,6 @@
 def dockeruser = "hfcbf"
 def imagename = "openjdk:7"
-def container = "esII"
+def container = "apache2"
 
 node{
   echo 'Building ESII Docker Image"'
