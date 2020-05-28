@@ -1,8 +1,8 @@
 package esg18;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
+
+import esg18.HelloWorld;
 
 public class HelloWorldTest {
 
